@@ -1,0 +1,15 @@
+*.log
+docker-compose.override.yml
+
+tmp/
+*.tmp
+*.bak
+
+configs/*.secret
+configs/*.key
+configs/*.crt
+
+.bash_history
+.zsh_history
+
+*.tar
